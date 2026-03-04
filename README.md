@@ -4,9 +4,8 @@ Draw and erase with your finger using Mediapipe & OpenCV.
 
 
 ## Features
-- Draw with your finger in real-time.  
-- Erase strokes by clicking.  
-- Undo (`z`), clear (`c`), save (`s`).  
+- Draw with your finger in real-time  
+- Undo (`z`), clear (`c`), save (`s`)  
 
 
 ## Installation
